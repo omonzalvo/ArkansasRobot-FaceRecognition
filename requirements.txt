@@ -1,0 +1,5 @@
+This Project is a Python-based application that requires specific dependencies to run correctly. 
+The `requirements.txt` file lists all the necessary packages and their versions needed for the project. To install these dependencies, 
+you can use the following command:
+
+
